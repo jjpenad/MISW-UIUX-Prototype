@@ -8,7 +8,7 @@ const drawerWidth = 100;
 
 const Main = styled("main")(({ theme }) => ({
   flexGrow: 1,
-  padding: theme.spacing(3),
+  padding: theme.spacing(1),
   marginLeft: drawerWidth,
 }));
 
